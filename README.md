@@ -8,6 +8,12 @@ I'm a full-stack developer passionate about building clean, scalable, and impact
 - 🤖 Experimenting with **AI-powered tools** and **LangChain**
 - 🌐 Preparing to join a tech team by **Fall 2025**
 
+### 🌱 Let's Connect!
+
+- 🌍 [Portfolio]() (coming soon)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jhaylow/)
+- 📧 [Email](ansahderrick25@gmail.com)
+
 ### 🛠️ Tech Stack
 
 **Frontend:**  
@@ -37,10 +43,7 @@ I'm a full-stack developer passionate about building clean, scalable, and impact
 
 ---
 
-### 🌱 Let's Connect!
 
-- 🌍 [Portfolio]() (coming soon)
-- 💼 [LinkedIn](https://www.linkedin.com/in/jhaylow/)
 
 Thanks for stopping by! 😊
 
