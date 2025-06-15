@@ -1,12 +1,15 @@
 # 👋 Bienvenue
 
-I'm a full-stack developer passionate about building clean, scalable, and impactful software. I'm currently focused on the **T3 stack (TypeScript, tRPC, Tailwind, Next.js, Prisma)** and learning how to integrate **AI tools** like OpenAI into real-world applications.
+I'm a full-stack developer passionate about building clean, scalable, and impactful software. I’m currently focused on the **T3 stack (TypeScript, tRPC, Tailwind, Next.js, Prisma)** while also diving into **Web3 and blockchain development**.
+
+I'm actively participating in **Web3 hackathons** and exploring how decentralized technologies can empower the next generation of applications
 
 ### 🚀 What I'm Working On
-- 🎯 Building full-stack apps with the **Next.js App Router** and **tRPC**
-- 💻 Practicing problem-solving and system design for job interviews
-- 🤖 Experimenting with **AI-powered tools** and **LangChain**
-- 🌐 Preparing to join a tech team by **Fall 2025**
+- 💻 Building full-stack apps with **Next.js App Router**, **tRPC**, and **Prisma**
+- 🤖 Experimenting with **AI integration** using OpenAI and LangChain
+- 🧠 Learning **Web3 development** with Solidity, Rust, and smart contracts
+- 🏆 Participating in **Web3 hackathons** and open-source blockchain projects
+- 🎯 Preparing to join a tech team by **Fall 2025**
 
 ### 🌱 Let's Connect!
 
@@ -27,6 +30,11 @@ I'm a full-stack developer passionate about building clean, scalable, and impact
 ![tRPC](https://img.shields.io/badge/tRPC-2596be?style=flat&logo=data:image/svg+xml;base64,...)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+**Web3 / Blockchain**  
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 **Other Tools:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -43,5 +51,5 @@ I'm a full-stack developer passionate about building clean, scalable, and impact
 
 ---
 
-Thanks for stopping by! 😊
+Thanks for stopping by — I’m always open to collaborations, hackathons, and new opportunities! 😊
 
