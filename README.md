@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Derrick Ansah
+# 👋 Bienvenue
 
 I'm a full-stack developer passionate about building clean, scalable, and impactful software. I'm currently focused on the **T3 stack (TypeScript, tRPC, Tailwind, Next.js, Prisma)** and learning how to integrate **AI tools** like OpenAI into real-world applications.
 
@@ -42,8 +42,6 @@ I'm a full-stack developer passionate about building clean, scalable, and impact
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansah25&layout=compact&theme=radical)
 
 ---
-
-
 
 Thanks for stopping by! 😊
 
