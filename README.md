@@ -4,13 +4,6 @@ I'm a full-stack developer passionate about building clean, scalable, and impact
 
 I'm actively participating in **Web3 hackathons** and exploring how decentralized technologies can empower the next generation of applications
 
-### 🚀 What I'm Working On
-- 💻 Building full-stack apps with **Next.js App Router**, **tRPC**, and **Prisma**
-- 🤖 Experimenting with **AI integration** using OpenAI and LangChain
-- 🧠 Learning **Web3 development** with Solidity, Rust, and smart contracts
-- 🏆 Participating in **Web3 hackathons** and open-source blockchain projects
-- 🎯 Preparing to join a tech team by **Fall 2025**
-
 ### 🌱 Let's Connect!
 
 - 🌍 [Portfolio]() (coming soon)
