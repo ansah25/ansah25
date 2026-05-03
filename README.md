@@ -37,12 +37,5 @@ I'm actively participating in **Web3 hackathons** and exploring how decentralize
 
 ---
 
-### 📈 GitHub Stats
-
-![Derrick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ansah25&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansah25&layout=compact&theme=radical)
-
----
-
 Thanks for stopping by — I’m always open to collaborations, hackathons, and new opportunities! 😊
 
