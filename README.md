@@ -1,11 +1,11 @@
 # Hi, I'm Derrick
 
-Software engineer building across the full stack, from embedded firmware and cryptographic protocols to production web apps. I'm currently Head of Firmware at [Relayed](https://userelayed.com), a smart parcel locker network for Ghana designed to keep working when the network doesn't.
+Software engineer building across the full stack, from embedded firmware and cryptographic protocols to production web apps. I'm currently Head of Firmware at [Relayed](https://userelayed.com), a smart parcel locker network designed to keep working when the network doesn't.
 
 ## What I'm building
 
 **[Relayed](https://userelayed.com)**
-Smart parcel lockers for Ghana. I own the embedded controller software and the offline access protocol: lockers verify cryptographically signed courier credentials entirely on-device, so deliveries keep moving through network outages.
+Smart parcel lockers. I own the embedded controller software and the offline access protocol: lockers verify cryptographically signed courier credentials entirely on-device, so deliveries keep moving through network outages.
 
 **[Nokto](https://trynokto.com)**
 AI user-interview platform for early-stage founders. Share a link with your users, and an AI agent runs voice or text interviews and returns synthesized findings the next morning. Built and shipped solo, including an evaluation harness that scores the interviewer across 45 scenarios.
